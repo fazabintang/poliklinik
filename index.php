@@ -19,7 +19,7 @@ include_once("koneksi.php");
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
-    <link rel="stylesheet" href="http://<?= $_SERVER['HTTP_HOST'] ?>/polibayu/dist/css/welcome_styles.css">
+    <link rel="stylesheet" href="http://<?= $_SERVER['HTTP_HOST'] ?>/poliklinik/dist/css/welcome_styles.css">
 </head>
 
 <body>
